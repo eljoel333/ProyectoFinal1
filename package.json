@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "tpfinal",
+  "version": "1.0.0",
+  "description": "Primera Entrega del Trabajo Practico Final - Coderhouse",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "Gaston Rojas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
